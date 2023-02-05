@@ -1,0 +1,12 @@
+body {
+    color: var(--bs-dark);
+}
+* {
+    font-family: comicneue !important;
+}
+.nav-link {
+    transition: all 0.2s ease-in;
+}
+.nav-link:hover {
+    color: #d90429;
+}
